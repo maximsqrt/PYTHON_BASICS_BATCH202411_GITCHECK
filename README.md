@@ -1,0 +1,3 @@
+# novemberkurs_first_repo
+# novemberkurs_first_repo
+# PYTHON_BASICS_BATCH202411_GITCHECK
